@@ -1,0 +1,213 @@
+Basics
+
+What is React?
+
+Is React a library or a framework?
+
+Why do we use React?
+
+What is a Single Page Application (SPA)?
+
+What is JSX?
+
+Can React work without JSX?
+
+What is a React component?
+
+Types of React components?
+
+What is a Functional Component?
+
+What is a Class Component?
+
+What is the difference between functional and class components?
+
+What is ReactDOM?
+
+What is the Virtual DOM?
+
+How does Virtual DOM improve performance?
+
+What are props in React?
+
+Are props mutable?
+
+What is state in React?
+
+Difference between props and state?
+
+What is useState?
+
+What are React Hooks?
+
+Name some common Hooks.
+
+What is useEffect?
+
+What is the difference between state and Hooks?
+
+What are controlled components?
+
+What are uncontrolled components?
+
+What is a key in React lists and why is it important?
+
+How do you handle events in React?
+
+What is conditional rendering in React?
+
+What is a fragment in React?
+
+Difference between React and Angular?
+
+Component Lifecycle & Advanced Basics
+
+What is the lifecycle of a React component?
+
+Name the lifecycle methods of a class component.
+
+What is componentDidMount?
+
+What is componentDidUpdate?
+
+What is componentWillUnmount?
+
+What is getDerivedStateFromProps?
+
+What is shouldComponentUpdate?
+
+Difference between React.PureComponent and React.Component?
+
+What is memoization in React?
+
+What is React.memo?
+
+Difference between stateful and stateless components?
+
+What is lifting state up?
+
+What is prop drilling?
+
+What are higher-order components (HOC)?
+
+What is context API?
+
+Difference between Context API and Redux?
+
+What is the difference between React Router and normal navigation?
+
+What are error boundaries?
+
+Hooks (Intermediate Basics)
+
+What is useRef?
+
+What is useCallback?
+
+What is useMemo?
+
+Difference between useEffect and useLayoutEffect?
+
+Difference between useState and useReducer?
+
+How do you fetch data in React?
+
+How do you clean up subscriptions in React?
+
+What is a custom hook?
+
+Why are Hooks introduced in React?
+
+Can you use Hooks inside class components?
+
+JSX, Props, State & Events
+
+Can JSX contain expressions?
+
+Can JSX return multiple elements?
+
+Difference between class and className in JSX?
+
+Difference between htmlFor and for in JSX?
+
+How to handle forms in React?
+
+Difference between controlled and uncontrolled forms?
+
+How do you pass a function as a prop?
+
+How do you pass data from child to parent?
+
+How do you update state based on previous state?
+
+Difference between setState in class components and useState in functional components?
+
+Routing & State Management
+
+What is React Router?
+
+Difference between BrowserRouter and HashRouter?
+
+What is a route in React?
+
+How do you create nested routes?
+
+What is Redux?
+
+Difference between Redux and Context API?
+
+What are actions, reducers, and store in Redux?
+
+What is the purpose of Provider in Redux?
+
+What is connect in Redux?
+
+What are middleware in Redux?
+
+Performance & Optimization
+
+How to optimize performance in React?
+
+What is code splitting in React?
+
+What is lazy loading?
+
+Difference between client-side rendering and server-side rendering?
+
+What is SSR in React?
+
+What is hydration in React?
+
+What is reconciliation?
+
+How do you prevent unnecessary re-renders?
+
+Difference between PureComponent and React.memo?
+
+What is React Profiler?
+
+Misc / Advanced Basics
+
+What is dangerouslySetInnerHTML?
+
+How do you handle errors in React?
+
+How to use fragments <></> in React?
+
+What is Portals in React?
+
+Difference between state and ref?
+
+What is event delegation in React?
+
+Difference between inline and external styling in React?
+
+Difference between props.children and React.cloneElement?
+
+What is reconciliation in React?
+
+How to pass multiple props?
+
+How to debug React applications?
+
+How do you test React components?
